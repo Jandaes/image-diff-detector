@@ -164,3 +164,7 @@ image-diff-detector/
 ## License
 
 MIT License
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=Jandaes/image-diff-detector&type=date&legend=top-left)](https://www.star-history.com/?repos=Jandaes%2Fimage-diff-detector&type=date&legend=top-left)
